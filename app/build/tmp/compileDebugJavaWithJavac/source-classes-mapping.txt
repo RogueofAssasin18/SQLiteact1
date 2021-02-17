@@ -1,0 +1,2 @@
+com/example/uielementsact2/BuildConfig.java
+ com.example.uielementsact2.BuildConfig
