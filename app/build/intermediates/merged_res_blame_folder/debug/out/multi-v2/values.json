@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ric\\Downloads\\UI_Activity2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ric\\Downloads\\SQLiteact1-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ric\\.gradle\\caches\\transforms-2\\files-2.1\\930a89c8dc62c8ad9fb5309b2bcf54e5\\cardview-1.0.0\\res\\values\\values.xml",
@@ -23,37 +23,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ric\\Downloads\\UI_Activity2-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Ric\\Downloads\\SQLiteact1-main\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "51",
-                        "endOffsets": "63"
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "823"
                     },
                     "to": {
-                        "startLines": "975",
+                        "startLines": "3643",
                         "startColumns": "4",
-                        "startOffsets": "56477",
-                        "endColumns": "51",
-                        "endOffsets": "56524"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ric\\Downloads\\UI_Activity2-master\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "390,478,479,480,491,492,495",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "18715,24708,24755,24802,25546,25591,25757",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "18752,24750,24797,24844,25586,25631,25794"
+                        "startOffsets": "240254",
+                        "endLines": "3655",
+                        "endColumns": "12",
+                        "endOffsets": "240975"
                     }
                 },
                 {
@@ -95,6 +80,40 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Ric\\Downloads\\SQLiteact1-main\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "390,478,479,480,491,492,495",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "18715,24708,24755,24802,25546,25591,25757",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "18752,24750,24797,24844,25586,25631,25794"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ric\\Downloads\\SQLiteact1-main\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "51",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "975",
+                        "startColumns": "4",
+                        "startOffsets": "56477",
+                        "endColumns": "51",
+                        "endOffsets": "56524"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Ric\\.gradle\\caches\\transforms-2\\files-2.1\\e1b1b375e052e85221b7a4b3c8b12e6e\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -130,25 +149,6 @@
                         "endLines": "7582",
                         "endColumns": "24",
                         "endOffsets": "486904"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ric\\Downloads\\UI_Activity2-master\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "823"
-                    },
-                    "to": {
-                        "startLines": "3643",
-                        "startColumns": "4",
-                        "startOffsets": "240254",
-                        "endLines": "3655",
-                        "endColumns": "12",
-                        "endOffsets": "240975"
                     }
                 },
                 {
